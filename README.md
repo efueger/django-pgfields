@@ -7,3 +7,5 @@ for data types available in PostgreSQL but not exposed in the Django ORM
 (because of lack of availability in other database backends).
 
 Full documentation is graciously hosted by [Read the Docs](https://django-pgfields.readthedocs.org/en/latest/).
+
+Edit readme: ef
